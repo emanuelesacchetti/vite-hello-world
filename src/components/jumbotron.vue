@@ -7,7 +7,7 @@
             <h3>Gwen</h3>
         </div>
         <div class="item iron">
-            <h3>Iron suite</h3>
+            <h3>Peter</h3>
         </div>
         <div class="item symbiote">
             <h3>Symbiote</h3>
